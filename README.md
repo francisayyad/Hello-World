@@ -1,4 +1,4 @@
 # Hello World!
-I am Francis Ayyad
-I am a 15 Year old student, in Jordan
-I attend King's Academy
+I am Francis Ayyad,
+a 15 Year old student in Jordan
+who attend King's Academy
